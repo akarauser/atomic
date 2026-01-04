@@ -1,0 +1,31 @@
+{
+    "colors": {
+        "profile_name": "#0B0C10",
+        "default_text": "#45A29E",
+        "today": "#66FCF1"
+    },
+
+    "titles": [
+        "The Catalyst",
+        "The Garrison",
+        "The Architect",
+        "The Navigator",
+        "The Synthesizer",
+        "The Conduit",
+        "The Strategist",
+        "The Refiner",
+        "The Zenith",
+        "The Ascendant" ],
+        
+    "experience":[
+        120,
+        260,
+        420,
+        600,
+        1000,
+        1420,
+        1860,
+        2250,
+        2710,
+        3500]
+}
